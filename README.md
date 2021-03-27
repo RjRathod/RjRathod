@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @RjRathod
+- 👀 I’m interested in Java
+- 🌱 I’m currently learning Advance Java
+- 📫 How to reach me rajurathod577@gmail.com
